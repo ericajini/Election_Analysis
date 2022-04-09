@@ -26,7 +26,7 @@ Denver had the largest number of votes.
 
 ### Provide a breakdown of the number of votes and the percentage of the total votes each candidate received. 
 
-There were a total of 3 Candidates that participated in the election: 
+There were a total of 3 Candidates that were up for election: 
 
 1. Charles Capser Stockham had 23% of the votes with a total vote count of 85,213. 
 
