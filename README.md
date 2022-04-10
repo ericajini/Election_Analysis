@@ -36,13 +36,13 @@ There were a total of 3 Candidates that were up for election:
 
 3. Raymon Anthony Doane had 3.1% of the votes with a total vote count of 11,606. 
 
-![2017_Results](https://github.com/ericajini/Election_Analysis/blob/main/candidate%20results.png)
+![Candidate_Results](https://github.com/ericajini/Election_Analysis/blob/main/candidate%20results.png)
 
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
 
 Diana DeGette was the winner of the election with 272,892 votes which was 73.8% of the total vote count. 
 
-![2017_Results](https://github.com/ericajini/Election_Analysis/blob/main/election_winner.png)
+![Winner_Results](https://github.com/ericajini/Election_Analysis/blob/main/election_winner.png)
 
 ## Election Audit Summary: 
 
