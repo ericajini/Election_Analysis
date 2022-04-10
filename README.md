@@ -39,3 +39,5 @@ There were a total of 3 Candidates that were up for election:
 Diana DeGette was the winner of the election with 272,892 votes which was 73.8% of the total vote count. 
 
 ## Election Audit Summary: 
+
+This analysis was created with empty list's/ dictionaries where unique values are added by looping through the data. With that said, we could repurpose this code to analyzie an election on a much larger scale. I think the code could also be repurposed to present a summary of the results for surveys (example: for all of the counties in MI, what is their favorite food and what is the overall winner for the state?). 
